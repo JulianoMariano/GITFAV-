@@ -1,4 +1,4 @@
-<h1 align="center"> SPA - Universe </h1>
+<h1 align="center"> GITFAV★ </h1>
 
 <p align="center">
 O GITFAV★ foi uma aplicação proposta pela RocketSeat no programa de formação WEB EXPLORER e desenvolvida por mim, Juliano Mariano. <br/>
