@@ -31,7 +31,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O GITFAV★ é uma aplicação que oferece uma visão rápida e abrangente de perfis do GitHub. Ao digitar o nome de usuário na barra de busca, a aplicação fornece instantaneamente a foto de perfil, número de seguidores e a lista de repositórios públicos daquele usuário, encurtando o caminho para seus user's favoritos. 
 Em certo momento você pode se perguntar, "será que eu ja adicionei essa pessoa a minha lista de favoritos?" Temos a solução!!! Através das higher order functions, podemos retornar um evento "Usuário já cadastrado".  
-- [Visite o projeto online](https://julianomariano.github.io/GitHub-Favorites/)
+
+<a href="https://julianomariano.github.io/GitHub-Favorites/" target="_blank"> - [Visite o projeto online] </a>
+
+<!-- - [Visite o projeto online](https://julianomariano.github.io/GitHub-Favorites/) -->
 
 ## 🔖 Layout
 
